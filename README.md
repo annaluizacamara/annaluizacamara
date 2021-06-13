@@ -8,4 +8,4 @@ Oie! Sou Anna Luiza tenho 12 anos, e estou aprendendo a desenvolver em Html e Cs
 
 Siga-me 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=Instagram.com/)](https://Instagram.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Anna%20Luiza-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=Instagram.com/)](https://Instagram.com/) 
