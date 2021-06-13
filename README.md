@@ -10,4 +10,4 @@ Siga-me 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anna%20Luiza-red?style=flat-square&logo=Instagram&logoColor=white&link=Instagram.com/)](https://Instagram.com/)
 
-Estou aprendendo: ![Linkedin Badge](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=Html5&logoColor=white&l)
+Estou aprendendo: ![Linkedin Badge](https://img.shields.io/badge/-HTML5-Larange?style=flat-square&logo=Html5&logoColor=white)
