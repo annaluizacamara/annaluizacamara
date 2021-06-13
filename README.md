@@ -2,9 +2,9 @@
 Oie! Sou Anna Luiza tenho 12 anos, e estou aprendendo a desenvolver em Html e Css, e programar em JavaScript, com o professor @gustavoguanabara on-line.
 
 
--📌 Rio de janeiro Brazil
+- 📌 Rio de janeiro Brazil
 - 📌 Website development student
-- 🌈 "As consequências das nossas escolhas são muito complexas, por isso não podemos prever o futuro." Dumbledore- Harry Potter
+- 🌈 "As consequências das nossas escolhas são muito complexas, por isso não podemos prever o futuro." Dumbledore-Harry Potter
 
 Siga-me 👇
 
