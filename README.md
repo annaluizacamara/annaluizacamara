@@ -1,8 +1,6 @@
 # Anna Luiza 👋
 Oie! Sou Anna Luiza tenho 12 anos, e estou aprendendo a desenvolver em Html e Css, e programar em JavaScript, com o professor @gustavoguanabara on-line.
 
-![Logo do html css e java scripit](https://image.shutterstock.com/image-vector/vector-collection-web-development-shield-260nw-1188713476.jpg)
-
 
 - 📌 Rio de janeiro Brazil
 - 📌 Website development student
