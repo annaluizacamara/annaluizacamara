@@ -10,4 +10,6 @@ Siga-me 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anna%20Luiza-pink?style=flat-square&logo=Instagram&logoColor=white&link=Instagram.com/)](https://Instagram.com/)
 
+![Logo do html css e java scripit](https://image.shutterstock.com/image-vector/vector-collection-web-development-shield-260nw-1188713476.jpg)
+
 Estou aprendendo: ![Linkedin Badge](https://img.shields.io/badge/-HTML5-yellow?style=flat-square&logo=Html5&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white)
