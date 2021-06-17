@@ -2,7 +2,7 @@
 Oie! Sou Anna Luiza tenho 12 anos, e estou aprendendo a desenvolver em Html e Css, e programar em JavaScript, com o professor @gustavoguanabara on-line.
 
 
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fpulse%2Fdata-science-para-leigos-aline-marques&psig=AOvVaw1gOdzhcUqTEdzPgemMsfLq&ust=1624025887139000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCC4oPunvECFQAAAAAdAAAAABAD)
+![Alt Text](https://media.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif)
 
 
 
