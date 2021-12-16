@@ -12,3 +12,9 @@ Siga-me 👇
 
 
 Estou aprendendo: ![Linkedin Badge](https://img.shields.io/badge/-HTML5-yellow?style=flat-square&logo=Html5&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white)
+
+ <div style="display: "flex" ">
+  <a href="https://github.com/annaluizacamara">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=annaluizacamara&show_icons=true&theme=jolly"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaluiza19&layout=compact&langs_count=7&theme=jolly"/>
+</div>
