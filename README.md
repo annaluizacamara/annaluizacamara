@@ -16,5 +16,5 @@ Estou aprendendo: ![Linkedin Badge](https://img.shields.io/badge/-HTML5-yellow?s
  <div style="display: "flex" ">
   <a href="https://github.com/annaluizacamara">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=annaluizacamara&show_icons=true&theme=loli"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamara&layout=compact&langs_count=7&theme=loli"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamara&layout=compact&langs_count=7&theme=loli"/>
 </div>
